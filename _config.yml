@@ -1,0 +1,28 @@
+name: escuelamane
+favicon: null
+layout_spectrum: 0.48056998662650585
+typography_spectrum: 0.7175021555740386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6351990296971053
+  lightness: 0.7248564360197634
+  saturation: 0.2836419865489006
+  rhythmicContrast: 0.0550085015129298
+purpose: []
