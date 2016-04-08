@@ -2,10 +2,16 @@
     <channel>
         <title><![CDATA[escuelamane]]></title>
         <description><![CDATA[escuelamane]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/escuelamane/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 03:29:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 03:33:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/escuelamane/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/escuelamane/0f6652bc-9d35-42d3-8799-88626f3d7a0d/index.html</link>
+            <guid isPermaLink="false">0f6652bc-9d35-42d3-8799-88626f3d7a0d</guid>
+            <pubDate>Fri, 08 Apr 2016 03:33:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Arquitectura de la información con SEO en mente
@@ -71,7 +77,7 @@ Quiero resultados similares a pasar a su sitio? Cita de las Solicitudes de SEO l
 A raíz de este estudio de caso también escribí concursos generationusing aboutlead.
 Por favor comparta sus pensamientos, sentimientos y preguntas en los comentarios a continuación.
 Gracias por leer.</p>]]></description>
-            <link>undefinedarquitectura-de-la-informacion-con-seo-en-mente-permitanme-a/index.html</link>
+            <link>https://thegrid.ai/escuelamane/arquitectura-de-la-informacion-con-seo-en-mente-permitanme-a/index.html</link>
             <guid isPermaLink="false">f47f18e4-8235-422d-a3d7-0e61217962b6</guid>
             <pubDate>Fri, 08 Apr 2016 03:29:34 GMT</pubDate>
         </item>
